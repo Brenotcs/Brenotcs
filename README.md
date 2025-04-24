@@ -1,6 +1,6 @@
 ## Olá, sou Breno Souza e sou desenvolvedor fullstack!! 
 
-- 🔭 I’m currently working on JavaScript
+- 🔭 I’m currently working on Node.Js
 - 🌱 I’m currently learning ReactJs
 - 💬 Ask me about web development
 - 📫 How to reach me: https://www.linkedin.com/in/brenotcsouza/
