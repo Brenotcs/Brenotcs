@@ -1,4 +1,4 @@
-## Olá, sou Breno Souza e sou desenvolvedor front-end!! 
+## Olá, sou Breno Souza e sou desenvolvedor fullstack!! 
 
 - 🔭 I’m currently working on JavaScript
 - 🌱 I’m currently learning ReactJs
