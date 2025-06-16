@@ -18,5 +18,6 @@
 </div>
 
 
-
+<div align="center">
 ![snake gif](https://github.com/Brenotcs/Brenotcs/blob/output/github-snake-dark.svg)
+</div>
