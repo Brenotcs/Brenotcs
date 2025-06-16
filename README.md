@@ -1,15 +1,14 @@
-## Olá, sou Breno Souza e sou desenvolvedor fullstack!! 
+<!--## Olá, sou Breno Souza e sou desenvolvedor fullstack!! 
 
 - 🔭 I’m currently working on Node.Js
 - 🌱 I’m currently learning ReactJs
 - 💬 Ask me about web development
 - 📫 How to reach me: https://www.linkedin.com/in/brenotcsouza/
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him-->
 
 <div align="center">
   <a href="https://github.com/Brenotcs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brenotcs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
- <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brenotcs&layout=compact&langs_count=7&theme=tokyonight"/>-->
 </div>
   <div> 
   <br>
