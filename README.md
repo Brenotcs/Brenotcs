@@ -12,12 +12,13 @@
 </div>
   <div> 
   <br>
+<div align="center">
   <a href="https://www.linkedin.com/in/brenotcsouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div> 
     
  ## 
 </div>
 
 
-<div align="center">
+
 ![snake gif](https://github.com/Brenotcs/Brenotcs/blob/output/github-snake-dark.svg)
-</div>
