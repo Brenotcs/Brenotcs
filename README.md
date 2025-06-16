@@ -1,10 +1,10 @@
-<!--## Olá, sou Breno Souza e sou desenvolvedor fullstack!! 
+## Olá, sou Breno Souza e sou desenvolvedor fullstack!! 
 
 - 🔭 I’m currently working on Node.Js
 - 🌱 I’m currently learning ReactJs
 - 💬 Ask me about web development
 - 📫 How to reach me: https://www.linkedin.com/in/brenotcsouza/
-- 😄 Pronouns: he/him-->
+- 😄 Pronouns: he/him
 
 <div align="center">
   <a href="https://github.com/Brenotcs">
@@ -14,10 +14,7 @@
   <br>
   <a href="https://www.linkedin.com/in/brenotcsouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
- ##
-    
-  ![Snake animation](https://github.com/Brenotcs/Brenotcs/blob/output/github-contribution-grid-snake.svg)
- 
+ ## 
 </div>
 
 
