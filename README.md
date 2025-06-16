@@ -19,3 +19,7 @@
   ![Snake animation](https://github.com/Brenotcs/Brenotcs/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+
+
+![snake gif](https://github.com/Brenotcs/Brenotcs/blob/output/github-snake-dark.svg)
