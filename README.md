@@ -2,7 +2,7 @@
 
   <br>
 <div align = "center">
-  <h1>-Skillset-</h1>
+  <h1>🖥️-Skillset-🖥️</h1>
 <img src="https://img.shields.io/badge/-React.Js-00008B?style=for-the-badge&logo=React&logoColor=black" target="_blank">    
 <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=black" target="_blank">  
 <img src="https://img.shields.io/badge/-HTML-A52A2A?style=for-the-badge&logo=HTML5&logoColor=black" target="_blank">  
@@ -10,17 +10,20 @@
 <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=black" target="_blank">  
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" target="_blank">  
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=black" target="_blank">  
-<br><br>
-
+  <br><br>
 <img src="https://img.shields.io/badge/ETC.-191970?style=for-the-badge" target="_blank">  
-
 </div>
 
 <div align="center">
   <hr>
   <a href="https://github.com/Brenotcs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brenotcs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    
+  [![brenotcs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenotcs&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=brenotcs&amp;theme=dark&amp;hide_border=false"> 
+</td><td width="50%" align="center">
 </div>
+    
 <div> 
   <br>
 
