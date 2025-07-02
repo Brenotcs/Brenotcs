@@ -20,7 +20,6 @@
     
   [![brenotcs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenotcs&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=brenotcs&amp;theme=dark&amp;hide_border=false"> 
 </td><td width="50%" align="center">
 </div>
     
