@@ -1,7 +1,5 @@
 ## I'm Breno Souza, Fullstack Developer.
 
-### Triquetra do Sucesso 🚀
-
   <br>
 <div align = "center">
   <h1>🖥️-Skillset-🖥️</h1>
