@@ -18,7 +18,6 @@
   <hr>
   <a href="https://github.com/Brenotcs">
     
-  [![brenotcs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenotcs&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </td><td width="50%" align="center">
 </div>
