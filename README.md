@@ -1,4 +1,4 @@
-## I'm Breno Souza, Fullstack Developer.
+## I'm Breno Souza, Web Developer.
 
   <br>
 <div align = "center">
